@@ -7,8 +7,11 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/YapZaman/AGCoffeeRatioCaculator/master/privacy/1.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/YapZaman/AGCoffeeRatioCaculator/master/privacy/1.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/0.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/1.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/2.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/3.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/4.png"> </td>
 </tr>
 
 <tr>
@@ -17,6 +20,25 @@
 
 
 </table>
+
+### iPad
+
+<table align="center" border="0">
+
+<tr>
+<td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/6.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/6.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/7.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/8.png"> </td>
+</tr>
+
+<tr>
+
+</tr>
+
+
+</table>
+
 
 ### 説明
 <br>
