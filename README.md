@@ -1,5 +1,5 @@
 # 興味深い FityIt
-
+Demo link: https://raw.githubusercontent.com/niyong0626/FityIt/master/fityIt_showcase.gif
 ### スクリーンショット
 
 ### iPhone
