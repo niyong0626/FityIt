@@ -26,7 +26,7 @@ Demo link: https://raw.githubusercontent.com/niyong0626/FityIt/master/fityIt_sho
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/6.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/5.png"> </td>
 <td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/6.png"> </td>
 <td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/7.png"> </td>
 <td> <img src="https://raw.githubusercontent.com/niyong0626/FityIt/master/8.png"> </td>
